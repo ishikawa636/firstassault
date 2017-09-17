@@ -49,4 +49,8 @@ Arena = function(game) {
     BABYLON.SceneLoader.ImportMesh("", "assets/blender/", "better_box.babylon", scene, function(){
       console.log("blender mesh imported");
     });
+
+    BABYLON.SceneLoader.ImportMesh("", "assets/blender/", "car01.babylon", scene, function(){
+      console.log("blender mesh imported");
+    });
 };

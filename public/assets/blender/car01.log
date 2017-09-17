@@ -1,0 +1,22 @@
+Exporter version: 5.4.0, Blender version: 2.78 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used:
+		selected layers only:  false
+		flat shading entire scene:  false
+		inline textures:  false
+		texture directory:  C:\Accounts\mohamed.benfasi\gh\firstassault\public\assets\blender\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of mesh:  "0003_PolyMesh".004
+		WARNING: No materials have been assigned: 
+		num positions      :  1538
+		num normals        :  1538
+		num uvs            :  3076
+		num uvs2           :  3076
+		num colors         :  0
+		num indices        :  2964
+		WARNING: # of 0 area faces found:  2
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.34 secs
