@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/markus636/gitsfa.git"
+    "url": "git+https://github.com/ishkikawa/firstassault.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/markus636/gitsfa/issues"
+    "url": "https://github.com/ishkikawa/firstassault/issues"
   },
-  "homepage": "https://github.com/markus636/gitsfa#readme"
+  "homepage": "https://github.com/ishkikawa/firstassault#readme"
 }
