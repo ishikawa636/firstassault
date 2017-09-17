@@ -8,4 +8,6 @@ The Cyborg : https://sketchfab.com/models/37c858f2a89c4f85a7361e32a8b37f9d
 
 The tutorial tu build it with babylon https://openclassrooms.com/courses/creez-votre-propre-fps-en-webgl
 
+The theme of the site is from https://www.w3schools.com/bootstrap/bootstrap_theme_band.asp
+
 Let's try to go on and keep the fun

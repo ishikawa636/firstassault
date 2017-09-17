@@ -4,6 +4,10 @@ var app = express();
 
 app.use('/', express.static(__dirname + '/public'));
 
+app.get('/game.html',function(req,res){
+  res.sendFile('game.html');
+});
+
 app.get('/',function(req,res){
   res.sendFile('index.html');
 });
